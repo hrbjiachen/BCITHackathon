@@ -1,0 +1,80 @@
+.TopBorder {
+    background-color: rgb(77,77,77);
+    color: white;
+    text-align: center;
+    font-size: 30pt;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.mainContent {
+}
+
+.logo {
+    width: 96px;
+    height: 86px;
+}
+
+.reportIssueLink {
+    color: white;
+    text-align: right;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.BCITSALogo{
+    width:200px;
+}
+
+a {
+    color: blue;
+}
+
+.element{
+    margin: 1px;
+}
+
+.elementTitle {
+    color: blue;
+    font-weight: bold;
+}
+
+.whiteLink {
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.centerText {
+    text-align: center;
+}
+.footer {
+    background-color: rgb(77,77,77);
+    position: absolute;
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 15px;
+    font-size: 2vmin;
+}
+
+#myFooter {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 50px;
+}
+.homeimage {
+    height:50px;
+    width:50px;
+}

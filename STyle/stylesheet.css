@@ -1,0 +1,186 @@
+.TopBorder {
+    background-color: rgb(77, 77, 77);
+    color: white;
+    text-align: center;
+    font-size: 30pt;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+iframe {
+    width: 1px;
+    min-width: 100%;
+    *width: 100%;
+}
+
+.content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.description {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.footer {
+    background-color: rgb(77, 77, 77);
+    position: absolute;
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 15px;
+    font-size: 2vmin;
+}
+
+.homeLogo {
+    max-width: 50px;
+}
+
+.logo {
+    width: 96px;
+    height: 86px;
+}
+
+.reportIssueLink {
+    color: white;
+    text-align: right;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+}
+
+.element {
+    margin: 1px;
+}
+
+.elementTitle {
+    color: blue;
+    font-weight: bold;
+}
+
+.blueLink {
+    color: blue;
+}
+
+img {
+    width: 100%;
+}
+
+.message {
+    color: darkred;
+    font-weight: bold;
+}
+
+.smalltext {
+    font-size: 12px;
+}
+
+img.noresize1 {
+    width: 137px;
+    height: 44px;
+}
+
+img.noresize2 {
+    width: 154px;
+    height: 93px;
+}
+
+a.others {
+    color: blue;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 50px;
+}
+
+#myFooter {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+}
+
+.service {
+    color: black;
+    text-align: center;
+}
+
+.calendar {
+    text-align: center;
+}
+
+.responsive-iframe-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.responsive-iframe-container iframe,
+.vresponsive-iframe-container object,
+.vresponsive-iframe-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#announcements {
+    text-align: center;
+}
+
+#onlineservices {
+    text-align: center;
+}
+
+.navbg {
+    background-color: dimgrey;
+}
+
+.btnsq {
+    width: 100px;
+    height: 80px;
+}
+
+.redtext {
+    color: red;
+}
+
+.btnlong {
+    width: 350px;
+    height: 50px;
+}
+
+.homeimage {
+    height: 50px;
+    width: 50px;
+}
+
+#title {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#link {
+    color: blue;
+}
+
+.btn-primary {
+    background-color: #428bca;
+}
+
+.btn-success {
+    background-color: #5cb85c;
+}
